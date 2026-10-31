@@ -1,6 +1,7 @@
 name = "Quark"
 filename = "Quark-4.1-485.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/qnQsVE2z/versions/8uDGRJCr/Quark-4.1-485.jar"
