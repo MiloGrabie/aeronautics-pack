@@ -632,7 +632,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "f47dd1d4183be4788913c741f48620094c89bc8b556852d15ca48818a9f0a17d"
+hash = "15219e64b45e53db93de94091172e6a4c5ae9a749710ce91a615c973a552c215"
 metafile = true
 
 [[files]]
@@ -927,7 +927,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "d22d14965fb93e68529f7b0861c11179b866e5c83a1cd5d394a8bf813653446b"
+hash = "ddf213b8ba47e0651dc89081db34c5d5350b792ba395e81da70200e593ec310c"
 metafile = true
 
 [[files]]
