@@ -2,3 +2,4 @@ README.md
 .gitattributes
 .nojekyll
 .packwizignore
+client/
