@@ -1,0 +1,13 @@
+name = "Create Aeronautics x Curios API Compat"
+filename = "createaeronauticscurios-neoforge-1.21.1-2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XdeUdp2p/versions/mFcxlsvt/createaeronauticscurios-neoforge-1.21.1-2.2.jar"
+hash-format = "sha512"
+hash = "b1ef38a5e9492f7b9295d8d2c4535e74e058d6c4b96fbfc8a5d8f37039f39a220e5ec162754b90ec8f2245a82c6b3ec726e6e706e0f11149ffd620ba69861f98"
+
+[update]
+[update.modrinth]
+mod-id = "XdeUdp2p"
+version = "mFcxlsvt"

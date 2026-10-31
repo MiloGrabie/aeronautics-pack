@@ -1,0 +1,13 @@
+name = "Create: Springs"
+filename = "createsprings-1.2.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wDCqub60/versions/3tMl04vO/createsprings-1.2.1-neoforge.jar"
+hash-format = "sha512"
+hash = "4d52f643d2f8da3be7391f094c3e83a9b4cc9eb0690713de9d8eab409e9931d287c31bc3f186ecf72a282acfb58a6417c4cbdac4fabcf82c743d9c2e99903159"
+
+[update]
+[update.modrinth]
+mod-id = "wDCqub60"
+version = "3tMl04vO"

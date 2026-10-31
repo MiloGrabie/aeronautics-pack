@@ -1,0 +1,13 @@
+name = "Create:Mechanical Confection"
+filename = "createmechanicalconfection-0.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CzkEo1V9/versions/NIl9dZdO/createmechanicalconfection-0.3.0.jar"
+hash-format = "sha512"
+hash = "a760dad302d2bf07addf90c342fd3a050299effd629992cfd0144a0d313165e3dba27cc2a45bb154cee9bd87dbf2f1e47e08a8fdff79e8cda9d84b150c4750ee"
+
+[update]
+[update.modrinth]
+mod-id = "CzkEo1V9"
+version = "NIl9dZdO"

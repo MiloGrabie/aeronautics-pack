@@ -1,0 +1,13 @@
+name = "Create: Petrochem"
+filename = "petrochem-neoforge-1.21.1-1.3.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/evsgEBNC/versions/ei3FtAPI/petrochem-neoforge-1.21.1-1.3.3.jar"
+hash-format = "sha512"
+hash = "70cba66d880d531fa6460575563d9b9c84a3d47cddc68cb2cab4ef0eca54883af8b2c4e0a660166732c908aadb67fa89c9700535c2ae00c22d6d88c927730140"
+
+[update]
+[update.modrinth]
+mod-id = "evsgEBNC"
+version = "ei3FtAPI"

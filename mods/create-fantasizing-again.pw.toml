@@ -1,0 +1,13 @@
+name = "Create: Fantasizing Again"
+filename = "create_fantasizing-1.21.1-1.2.0-b3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UvrmqS41/versions/xaayBxRe/create_fantasizing-1.21.1-1.2.0-b3.jar"
+hash-format = "sha512"
+hash = "08dc4875221c66586ee16f598f6b8e5ba4cb85d767ded14a9d61d9b89b0bebbf3a74e4c3beff44ee5b13a99c1930ac0288073ddfa9a6c11804d081222c314903"
+
+[update]
+[update.modrinth]
+mod-id = "UvrmqS41"
+version = "xaayBxRe"
