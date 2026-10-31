@@ -16,6 +16,11 @@ hash = "635e8da6d8112f61a30aa59cceaf2acbaa4b1e366283ef724c3e19f1850fc4c3"
 metafile = true
 
 [[files]]
+file = "mods/aeronautics-hot-air-fix.pw.toml"
+hash = "46c1fbb5cf30ed19465da2f09e9b65e1a7ff0c3b42287fb2b8e6eb750b11ca27"
+metafile = true
+
+[[files]]
 file = "mods/alltheleaks.pw.toml"
 hash = "e511d068e43fd6d1f3e1db102a5e54906342e052b97baf9bc46b86fe0232bd3d"
 metafile = true
