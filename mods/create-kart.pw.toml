@@ -1,0 +1,13 @@
+name = "Create Kart"
+filename = "create_kart-3.1.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uIWvOIUD/versions/CN4BTPIj/create_kart-3.1.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "4633f77eb4897c2713a3a21c8e65017597c29a593a16d0685b07261150d7fde26af2b5d38801b48a16a29b0fab05cc7c5581cf665e1b2d938ea155e812a0f759"
+
+[update]
+[update.modrinth]
+mod-id = "uIWvOIUD"
+version = "CN4BTPIj"

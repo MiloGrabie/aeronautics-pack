@@ -8,7 +8,7 @@ $ErrorActionPreference = 'Stop'
 $PackUrl      = 'https://milograbie.github.io/aeronautics-pack/pack.toml'
 $BootstrapUrl = 'https://github.com/packwiz/packwiz-installer-bootstrap/releases/download/v0.0.3/packwiz-installer-bootstrap.jar'
 $McVersion    = '1.21.1'
-$NeoVersion   = '21.1.250'
+$NeoVersion   = '21.1.264'
 $Utf8NoBom    = New-Object System.Text.UTF8Encoding($false)
 
 function Write-Step($msg) { Write-Host "`n==> $msg" -ForegroundColor Cyan }
