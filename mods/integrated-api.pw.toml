@@ -1,13 +1,13 @@
 name = "Integrated API"
-filename = "integrated_api-neoforge-1.21.1-1.9.1.jar"
+filename = "integrated_api-neoforge-1.21.1-1.9.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "64ecc8e8336c9478d1357b142d8829297f22b371"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/V6fKbpBN/versions/W2kSUAja/integrated_api-neoforge-1.21.1-1.9.2.jar"
+hash-format = "sha512"
+hash = "d9133213ef19fae4852f270ec7e144a6c683c581c24746e693b8c88a4229d3b7e471f280bd7a358f85f2cc2b545321297bf8301b2166a40b2514cd5bbbdad3dd"
 
 [update]
-[update.curseforge]
-file-id = 9151098
-project-id = 817709
+[update.modrinth]
+mod-id = "V6fKbpBN"
+version = "W2kSUAja"

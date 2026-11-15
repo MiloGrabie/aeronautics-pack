@@ -1,0 +1,13 @@
+name = "Create Frostworks"
+filename = "frostworks-1.1.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fc70746262fa2d965d5dd1df640607b07e206aa8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9493784
+project-id = 1756321
