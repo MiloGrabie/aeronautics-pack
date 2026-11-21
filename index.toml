@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-food.pw.toml"
-hash = "2dfd75dc868b7f72dea38cc4df954886a62fe3652ab90afdedc0031ce7372a01"
+hash = "b453da2f0b7acfd75d9bfb12f9dcad50211a0b25040c894f00736b913c18a339"
 metafile = true
 
 [[files]]
