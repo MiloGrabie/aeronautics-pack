@@ -1,12 +1,12 @@
 name = "All of Create Aeronautics"
 author = "MiloGrabie"
-version = "3.2.2"
+version = "3.3.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "dc8317ac0d833c1295ed67469e29457dbc6daa7f958d0be13579074e3bef0f87"
+hash = "8bbb642216e891c9e587132abf97ef97df36f4611d6cf2117cefcf65bef024f9"
 
 [versions]
 minecraft = "1.21.1"

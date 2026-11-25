@@ -1,0 +1,14 @@
+name = "LOD Server Support"
+filename = "lod-server-support-neoforge-0.23.0+1.21.1.jar"
+side = "both"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/lKiXKLvv/versions/jphbGSYm/lod-server-support-neoforge-0.23.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "fbf7c4cecf951b414643ed4c24c609c9d1d739e3f1729d9f2e9cc2eb7f2868b588d54a875e2f9cef41ca9babf2433640cbed93be5ddde823781cb7c6993c90a3"
+
+[update]
+[update.modrinth]
+mod-id = "lKiXKLvv"
+version = "jphbGSYm"

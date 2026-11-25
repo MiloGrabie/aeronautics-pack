@@ -1,0 +1,14 @@
+name = "Roxy"
+filename = "roxy-1.21.1-NeoForge-0.4.2.1.jar"
+side = "client"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/Ap78bKTp/versions/JJlkgYxJ/roxy-1.21.1-NeoForge-0.4.2.1.jar"
+hash-format = "sha512"
+hash = "15ab34a634b3a47a243819b408732b6a33e195b03ef10eb407262f14cd1f1be0774116c532f02869bee8ec5b4fe535977b2f1d14240064b1f143d14d48145ae7"
+
+[update]
+[update.modrinth]
+mod-id = "Ap78bKTp"
+version = "JJlkgYxJ"
