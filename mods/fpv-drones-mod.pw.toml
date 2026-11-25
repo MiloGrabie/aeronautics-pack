@@ -1,0 +1,14 @@
+name = "FPV Drones: Acro & Racing"
+filename = "fpv-1.0.1+1.21.1-neoforge.jar"
+side = "both"
+pin = true
+
+[download]
+hash-format = "sha1"
+hash = "66bc2312afa01a554c5fbb8061abd68a167ce784"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9290243
+project-id = 1759777
